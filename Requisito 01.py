@@ -16,18 +16,3 @@ elif opcao == '2':
         if not email_senha_verify:
             print('\nDados não encontrados !')
             continue
-
-        while True:
-            print(
-            '\n[1] Cadastrar Carona' \
-            '\n[2] Listar Caronas Disponiveis' \
-            '\n[3] Listar Caronas Reservadas' \
-            '\n[4] Procurar Caronas' \
-            '\n[5] Reservar Carona' \
-            '\n[6] Cancelar Reserva' \
-            '\n[7] Remover Carona' \
-            '\n[8] Detalhes Da Carona' \
-            '\n[9] Caronas Cadastradas Pelo Usuario' \
-            '\n[10] Vizualizar Grafico De Reservas' \
-            '\n[0] Logout')
-            opcao = input('\nOpção: ')
