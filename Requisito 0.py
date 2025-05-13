@@ -1,13 +1,3 @@
-print('='* 50)
-print('Bem - Vindo'.center(50))
-print('='*50)
-
-while True:
-    print(
-        '\n[1] Cadastro' \
-        '\n[2] Login')
-    opcao = input('\nOpção: ')
-
     if opcao == '1':
         usuario = input('\nNome de usuario: ')
 
