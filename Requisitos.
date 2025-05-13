@@ -1,0 +1,14 @@
+- Requisitos
+
+R0 - Cadastro de Usuário.
+R1 - Login.
+R2 - Cadastro de Carona.
+R3 - Listar Caronas Disponíveis.
+R4 - Buscar Carona por Origem e Destino.
+R5 - Reservar Vaga em Carona.
+R6 - Cancelar Reserva.
+R7 - Remover Carona.
+R8 - Mostrar Detalhes de Carona.
+R9 - Mostrar Carona cadastradas.
+R10 - Logout.
+R11 - Funcionalidade EXTRA (Grafico para ver a quantidade de reservas feitas pelo usuário.)
